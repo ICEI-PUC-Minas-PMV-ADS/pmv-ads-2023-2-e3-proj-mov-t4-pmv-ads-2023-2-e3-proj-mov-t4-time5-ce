@@ -136,7 +136,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 |ID   | Restrição                                             |
 |-----|-------------------------------------------------------|
-|RE-01| O projeto deverá ser entregue no final do semestre letivo, não podendo extrapolar a data de 19/06/2023.|
+|RE-01| O projeto deverá ser entregue no final do semestre letivo, não podendo extrapolar a data de 04/12/2023.|
 |RE-02| O aplicativo deve se restringir às tecnologias básicas da Web no Front-end e Back-end.|
 |RE-03| A equipe não pode subcontratar o desenvolvimento do trabalho.|
 
