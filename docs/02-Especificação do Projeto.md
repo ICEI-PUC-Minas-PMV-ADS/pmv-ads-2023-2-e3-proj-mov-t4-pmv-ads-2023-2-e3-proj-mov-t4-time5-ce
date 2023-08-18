@@ -1,26 +1,57 @@
 # Especificações do Projeto
 
-<span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
-
-Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do  diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais além das restrições do projeto.
-
-Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
-
 ## Personas
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
+>### Andrea Gomes
+Andrea Gomes, 40 anos, é supervisora de RH e sócio-proprietária de uma distribuidora de bebidas na região de BH.
 
-Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
+**Motivações**
+- Aumentar sua renda;
+- Ser dona do próprio negócio;
+- Ter algum sistema básico que auxilie no controle de estoque e vendas, mesmo que não integre a gestão contábill
 
-> **Links Úteis**:
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
+**Frustrações**
+- Devido pouco tempo, não consegue participar efetivamente na gestão do estoque;
+- Também devido pouco tempo, não consegue participar na gestão de vendas.
+
+
+>### Vitor Pereira
+Vitor Pereira, 32 anos, proprietário de uma distribuidora de bebidas em Betim. Empreendedor desde os 28 anos.
+
+**Motivações**
+- Desejo de se tornar o maior vendedor da região,
+- No seu ponto de vista alcançar estabilidade financeira,
+- Atender as demadnas dos clientesl
+
+**Frustrações**
+
+- Não é um bom administrador,
+- Problemas com estoque furado;
+- Compras desnecessárias;
+- Falta de produtos.
+
+>### Carlos Augusto
+Carlos Augusto, 26 anos, trabalha como gerente de uma distribuidora de bebidas em Contagem, região metropolitana de Belo Horizonte.
+
+**Motivações**
+- Ele busca soluções no mercado para melhorar a gestão de processos na sua empresa,
+- Melhorar a qualidade do tempo dele na empresa para aumentar o tempo com a família;
+
+**Frustrações**
+
+- Funcionários/Auxiliares desviaram produtos do estoque;
+- Relatórios pobres e inexatos;
+
+>### Camila Torres
+Camila Torres, 23 anos, trabalha como estoquista em uma distribuidora de bebidas em Contagem.  Estudante de administração, ela estuda os processos necessários para abrir uma distribuidora de bebidas. Com pouca experiência e capital, busca conhecer as principais falhas na gestão desse tipo de empreendimento para conseguir alcançar seu objetivo de dominar as ferramentas de gestão e ter sucesso financeiro.
+
+**Motivações**
+- Por conhecer processos administrativos prospécta a abertura de uma distribuidora de bebidas;
+- Quer ser empreendedora.
+
+**Frustrações**
+- Não vê como possibilidade de fazer controle de estoque e venda tradicionais com papéis ou planilhas simples;
+- Dificuldade de encontrar sistemas simples de emissão de relatórios de vendas e estoque.
 
 ## Histórias de Usuários
 
@@ -28,17 +59,15 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|Andrea Gomes|Controlar acesso de funcionários aos relatórios de estoque e vendas da empresa|Manter os dados atuais e confiáveis|
+|Andrea Gomes|Gerenciar produtos oferecidos pela loja (cadastrar, remover, incluir e visualizar dados)|Acompanhar a dinâmica de vendas e realizar compras de acordo com o estoque, evitando gastos desnecessários|
+|Vitor Pereira|Emitir relatórios de estoque|Fazer a reposição do estoque em tempo hábil para garantir o atendimento ao cliente|
+|Vitor Pereira|Emitir relatórios de vendas|Acompanhar quais produtos estão sendo mais vendidos e elaborar estratégia de vendas para os que não têm boa saída|
+|Camila Torres |Registrar as mercadorias que chegam para o estoque|Ter sempre atualizados os dados e quantidades das mercadorias para auxiliar nas tarefas do setor de vendas|
+|Camila Torres |Emitir relatório de estoque|Garantir que o próprio estoque seja renovado corretamente (controle de gastos)|
+|Vendedor|Registrar venda dos produtos|Facilitar ao gestor da empresa obter visão de negócio para tomada de decisões|
+|Carlos Augusto|Gerenciar funcionários do estabelecimento|Manter o quadro de funcionários ativo e atualizado|
 
-Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
-
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
-> - [User Stories: requisitos que humanos entendem](https://www.luiztools.com.br/post/user-stories-descricao-de-requisitos-que-humanos-entendem/)
-> - [Histórias de Usuários: mais exemplos](https://www.reqview.com/doc/user-stories-example.html)
-> - [9 Common User Story Mistakes](https://airfocus.com/blog/user-story-mistakes/)
 
 ## Modelagem do Processo de Negócio 
 
