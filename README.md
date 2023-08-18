@@ -2,7 +2,7 @@
 
 `ANÁLISE E DESENVOLVIMENTO DE SISTEMAS`
 
-`PROJETO: DESENVOLVIMENTO DE UMA APLICAÇÃO INTERATIVA`
+`PROJETO: Desenvolvimento de uma Aplicação Móvel em um Ambiente de Negócio`
 
 `3º PERÍODO`
 
