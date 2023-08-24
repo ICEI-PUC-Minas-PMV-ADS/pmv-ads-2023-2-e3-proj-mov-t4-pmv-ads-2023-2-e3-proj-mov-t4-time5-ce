@@ -117,6 +117,8 @@ A tabela a seguir apresenta os requisitos do projeto, identificando a prioridade
 |RF-05| O sistema deve permitir emitir relatório de vendas da empresa. | MÉDIA | 
 |RF-06| O sistema deve permitir registrar as vendas realizadas.| MÉDIA |
 |RF-07| O sistema deve permitir cadastrar, visualizar e remover vendas | ALTA | 
+|RF-08| O sistema deve permitir o usuário entrar no sistema com login e senha | ALTA |
+
 
 ### Requisitos não Funcionais
 
@@ -146,7 +148,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 # Matriz de Rastreabilidade
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t4-pmv-ads-2023-2-e3-proj-mov-t4-time5-ce/assets/111437215/f8658bb2-209e-4809-a742-337d1870051c)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t4-pmv-ads-2023-2-e3-proj-mov-t4-time5-ce/assets/111437215/af32f184-e39b-403f-9177-df726ecd051a)
 
 
 # Gerenciamento de Projeto
