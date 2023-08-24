@@ -153,7 +153,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 Gráfico de Gantti (CONTROLE DE ESTOQUE E VENDAS)
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t4-pmv-ads-2023-2-e3-proj-mov-t4-time5-ce/assets/111437215/e1b23a23-0aa7-4fac-8595-35b8c6546620)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t4-pmv-ads-2023-2-e3-proj-mov-t4-time5-ce/assets/111437215/c078a17b-edd5-41d4-8a5c-91ed8f86fb54)
 
 
 ## Gerenciamento de Equipe
