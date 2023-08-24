@@ -163,6 +163,5 @@ Gráfico de Gantti (CONTROLE DE ESTOQUE E VENDAS)
 
 ## Gestão de Orçamento
 
-O processo de determinar o orçamento do projeto é uma tarefa que depende, além dos produtos (saídas) dos processos anteriores do gerenciamento de custos, também de produtos oferecidos por outros processos de gerenciamento, como o escopo e o tempo.
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t4-pmv-ads-2023-2-e3-proj-mov-t4-time5-ce/assets/111437215/e76ca5c7-8b5d-4c4f-a62c-eff2ed2900ce)
 
-![Orçamento](img/02-orcamento.png)
