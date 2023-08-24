@@ -158,9 +158,8 @@ Gráfico de Gantti (CONTROLE DE ESTOQUE E VENDAS)
 
 ## Gerenciamento de Equipe
 
-O gerenciamento adequado de tarefas contribuirá para que o projeto alcance altos níveis de produtividade. Por isso, é fundamental que ocorra a gestão de tarefas e de pessoas, de modo que os times envolvidos no projeto possam ser facilmente gerenciados. 
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t4-pmv-ads-2023-2-e3-proj-mov-t4-time5-ce/assets/111437215/f73ab229-1729-45ec-813f-4a6f0ae15678)
 
-![Simple Project Timeline](img/02-project-timeline.png)
 
 ## Gestão de Orçamento
 
