@@ -163,5 +163,6 @@ Gráfico de Gantti (CONTROLE DE ESTOQUE E VENDAS)
 
 ## Gestão de Orçamento
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t4-pmv-ads-2023-2-e3-proj-mov-t4-time5-ce/assets/111437215/e76ca5c7-8b5d-4c4f-a62c-eff2ed2900ce)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t4-pmv-ads-2023-2-e3-proj-mov-t4-time5-ce/assets/111437215/c4fdb11b-2ae1-401c-9454-9805b765a745)
+
 
