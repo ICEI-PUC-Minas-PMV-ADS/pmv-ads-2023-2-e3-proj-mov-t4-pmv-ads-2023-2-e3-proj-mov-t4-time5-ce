@@ -16,12 +16,13 @@ A ferramenta de controle de versão adotada no projeto foi o
 [Git](https://git-scm.com/), sendo que o [Github](https://github.com)
 foi utilizado para hospedagem do repositório.
 
+Por convenção vamos utilizar a padronização de branchs do [GitFlow](https://www.alura.com.br/artigos/git-flow-o-que-e-como-quando-utilizar)
+
 O projeto segue a seguinte convenção para o nome de branches:
 
 - `main`: versão estável já testada do software
-- `unstable`: versão já testada do software, porém instável
-- `testing`: versão em testes do software
-- `dev`: versão de desenvolvimento do software
+- `develop`: versão já testada do software, porém instável
+- `feature`: versão de desenvolvimento do software
 
 Quanto à gerência de issues, o projeto adota a seguinte convenção para
 etiquetas:
@@ -31,57 +32,38 @@ etiquetas:
 - `enhancement`: uma funcionalidade precisa ser melhorada
 - `feature`: uma nova funcionalidade precisa ser introduzida
 
-Discuta como a configuração do projeto foi feita na ferramenta de versionamento escolhida. Exponha como a gerência de tags, merges, commits e branchs é realizada. Discuta como a gerência de issues foi realizada.
-
-> **Links Úteis**:
-> - [Microfundamento: Gerência de Configuração](https://pucminas.instructure.com/courses/87878/)
-> - [Tutorial GitHub](https://guides.github.com/activities/hello-world/)
-> - [Git e Github](https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
->  - [Comparando fluxos de trabalho](https://www.atlassian.com/br/git/tutorials/comparing-workflows)
-> - [Understanding the GitHub flow](https://guides.github.com/introduction/flow/)
-> - [The gitflow workflow - in less than 5 mins](https://www.youtube.com/watch?v=1SXpE08hvGs)
 
 ## Gerenciamento de Projeto
 
 ### Divisão de Papéis
 
-Apresente a divisão de papéis entre os membros do grupo.
+- Scrum Master: **************
+- Product Owner: *************
+- Equipe de Desenvolvimento: ****************
+- Equipe de Design: ***************
 
-Exemplificação: A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para definição do processo de desenvolvimento. A equipe está organizada da seguinte maneira:
-- Scrum Master: Felipe Domingos;
-- Product Owner: Rommel Carneiro;
-- Equipe de Desenvolvimento: Pedro Penna, Pedro Ivo, Rodrigo Richard;
-- Equipe de Design: Simone Nogueira.
+Para organização e distribuição das tarefas do projeto, a equipe está utilizando o Trello estruturado com as seguintes listas:
 
-> **Links Úteis**:
-> - [11 Passos Essenciais para Implantar Scrum no seu Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
-> - [Os papéis do Scrum e a verdade sobre cargos nessa técnica](https://www.atlassian.com/br/agile/scrum/roles)
+- Lista de opções: recebe as tarefas para desenvolvimento. Todas as atividades identificadas no decorrer do projeto também devem ser incorporadas a esta lista.	
+- Refinamento : Desenvolvimento de uma tarefa retirada da lista de opções. 
+- Selecionados: Depois de refinadas, as atividades serão movidas para essa lista de acordo com a ordem de prioridade durante o desenvolvimento do projeto.
+- Desenvolvimento: Lista onde estarão as tarefas a ser desenvolvidas.
+- Revisão de código: Lista onde a atividade aguardará para ser revisada.
+- Homologação: Lista das tarefas que serão analisadas em relação à adequação aos requisitos antes de acontecer a entrega.
+- Entrega: nesta lista são colocadas as tarefas que passaram pelos testes e controle de qualidade e estão prontos para ser entregues ao usuário. Não há mais edições ou revisões necessárias, ele está agendado e pronto para a ação.
 
 ### Processo
 
-Coloque  informações sobre detalhes da implementação do Scrum seguido pelo grupo. O grupo deverá fazer uso do recurso de gerenciamento de projeto oferecido pelo GitHub, que permite acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução.
+A equipe definiu os papéis de cada membro durante a implementação do Scrum em que serão divididas as tarefas do projeto. Para o desenvolvimento de cada etapa, definiu-se realizar reuniões a cada dois dias para a entrega das Sprints definidas, além de alinhamento da equipe e definição dos próximos passos no desenvolvimento da aplicação. O andamento do projeto, bem como os responsáveis pelas atividades necessárias serão acompanhadas através da ferramenta TRELLO.
  
-> **Links Úteis**:
-> - [Planejamento e Gestáo Ágil de Projetos](https://pucminas.instructure.com/courses/87878/pages/unidade-2-tema-2-utilizacao-de-ferramentas-para-controle-de-versoes-de-software)
-> - [Sobre quadros de projeto](https://docs.github.com/pt/issues/organizing-your-work-with-project-boards/managing-project-boards/about-project-boards)
-> - [Project management, made simple](https://github.com/features/project-management/)
-> - [Sobre quadros de projeto](https://docs.github.com/pt/github/managing-your-work-on-github/about-project-boards)
-> - [Como criar Backlogs no Github](https://www.youtube.com/watch?v=RXEy6CFu9Hk)
-> - [Tutorial Slack](https://slack.com/intl/en-br/)
-
-### Ferramentas
+ ### Ferramentas
 
 As ferramentas empregadas no projeto são:
+-	Editor de código *******************
+-	Ferramentas de comunicação (Teams, GoogleMeet e whatsApp)
+-	Ferramentas de desenho de tela ***********
+-	Ferramentas de diagramação ************
+-	Ferramenta de gestão de grupo (Trello)
+-	Tecnologia para apresentação de aplicações web **********
 
-- Editor de código.
-- Ferramentas de comunicação
-- Ferramentas de desenho de tela (_wireframing_)
-
-O editor de código foi escolhido porque ele possui uma integração com o sistema de versão. As ferramentas de comunicação utilizadas possuem integração semelhante e por isso foram selecionadas. Por fim, para criar diagramas utilizamos essa ferramenta por melhor captar as necessidades da nossa solução.
-
-Liste quais ferramentas foram empregadas no desenvolvimento do projeto, justificando a escolha delas, sempre que possível.
- 
-> **Possíveis Ferramentas que auxiliarão no gerenciamento**: 
-> - [Slack](https://slack.com/)
-> - [Github](https://github.com/)
+O *********** foi escolhido para editar o código porque ele possui uma integração com o sistema de versão utilizado. As ferramentas de comunicação utilizadas possuem integração semelhante e por isso foram selecionadas. Para criar diagramas utilizamos as aplicações *************** por atender bem às necessidades de retratar visualmente o projeto. A *************** foi selecionada para o trabalho porque é uma ferramenta que facilita muito a manutenção e adição de funcionalidades ao código posteriormente.
