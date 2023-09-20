@@ -83,7 +83,15 @@ Apresente aqui uma descrição da sua proposta abordando seus limites e suas lig
 
 Processo BPMN Emissão de relatório de estoque
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t4-pmv-ads-2023-2-e3-proj-mov-t4-time5-ce/assets/111437215/a2a7709c-55ac-4daf-b7de-0ed38e083e5a)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t4-pmv-ads-2023-2-e3-proj-mov-t4-time5-ce/assets/111437215/73c6d225-ea5b-4347-a308-f22488f2749d)
+
+
+### Processo 2 – Venda de bebida
+
+Processo BPMN de venda de bebida
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t4-pmv-ads-2023-2-e3-proj-mov-t4-time5-ce/assets/111437215/e311616f-b980-4817-ace0-68510df5cb1d)
+
 
 
 ## Indicadores de Desempenho
