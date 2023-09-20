@@ -96,8 +96,7 @@ Processo BPMN de venda de bebida
 
 ## Indicadores de Desempenho
 
-
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t4-pmv-ads-2023-2-e3-proj-mov-t4-time5-ce/assets/111437215/a1efd081-6c84-490b-8b50-f5677c90d0a7)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t4-pmv-ads-2023-2-e3-proj-mov-t4-time5-ce/assets/111437215/f12880c1-da64-46a6-940f-b04328414615)
 
 
 
