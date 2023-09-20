@@ -126,11 +126,11 @@ A tabela a seguir apresenta os requisitos não funcionais que o projeto deverá 
 
 |ID        | Descrição do Requisito  |Prioridade |
 |--------|-------------------------|----|
-|RNF-01| O site deve ser publicado em um ambiente acessível publicamente na Internet| ALTA | 
-|RNF-02| O site deve ser responsivo permitindo a visualização em um celular de forma adequada |  ALTA | 
-|RNF-03| O site deve ter bom nível de contraste entre os elementos da tela | MÉDIA | 
-|RNF-04| O site deve ser compatível com os principais navegadores do mercado (Google Chrome, Firefox, Microsoft Edge) |  ALTA | 
-|RNF-05| O site deve suportar acessos simultâneos |  MÉDIA |
+|RNF-01| O aplicativo deve ser publicado em um ambiente acessível | ALTA | 
+|RNF-02| O aplicativo deve ser responsivo permitindo a visualização em um celular de forma adequada |  ALTA | 
+|RNF-03| O aplicativo deve ter bom nível de contraste entre os elementos da tela | MÉDIA | 
+|RNF-04| O aplicativo deve ser compatível com os principais sistemas do mercado  |  ALTA | 
+|RNF-05| O aplicativo deve suportar acessos simultâneos |  MÉDIA |
 
 ## Restrições
 
