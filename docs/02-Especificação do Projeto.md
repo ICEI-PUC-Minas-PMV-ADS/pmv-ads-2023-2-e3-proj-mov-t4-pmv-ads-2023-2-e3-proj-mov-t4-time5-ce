@@ -93,9 +93,9 @@ Apresente aqui o nome e as oportunidades de melhorias para o processo 2. Em segu
 
 ## Indicadores de Desempenho
 
-Indicadores de desempenho baseados no diagrama de classe.
 
- ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t4-pmv-ads-2023-2-e3-proj-mov-t4-time5-ce/assets/111437215/ce853981-86e8-44b6-bda0-e1c2ff5a0e72)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t4-pmv-ads-2023-2-e3-proj-mov-t4-time5-ce/assets/111437215/a1efd081-6c84-490b-8b50-f5677c90d0a7)
+
 
 
 ## Requisitos
