@@ -31,7 +31,9 @@ O diagrama foi estruturado considerando a necessidade do cliente em otimizar seu
 
 Arquivo banco.sql em src/bd
 Contendo os scripts de criação das tabelas do banco de dados.
-<a href="src/bd/banco.sql"> banco.sql</a>
+
+
+<a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t4-pmv-ads-2023-2-e3-proj-mov-t4-time5-ce/blob/main/src/bd/banco.sql"> banco.sql</a>
 
 ## Tecnologias Utilizadas
 
