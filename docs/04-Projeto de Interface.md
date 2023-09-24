@@ -29,15 +29,46 @@ O diagrama foi estruturado a fim de exibir o fluxo de interação do usuário co
 
 ## Wireframes
 
-![Exemplo de Wireframe](img/wireframe-example.png)
+### Tela Cadastrar Produto
 
-São protótipos usados em design de interface para sugerir a estrutura de um site web e seu relacionamentos entre suas páginas. Um wireframe web é uma ilustração semelhante do layout de elementos fundamentais na interface.
- 
-> **Links Úteis**:
-> - [Protótipos vs Wireframes](https://www.nngroup.com/videos/prototypes-vs-wireframes-ux-projects/)
-> - [Ferramentas de Wireframes](https://rockcontent.com/blog/wireframes/)
-> - [MarvelApp](https://marvelapp.com/developers/documentation/tutorials/)
-> - [Figma](https://www.figma.com/)
-> - [Adobe XD](https://www.adobe.com/br/products/xd.html#scroll)
-> - [Axure](https://www.axure.com/edu) (Licença Educacional)
-> - [InvisionApp](https://www.invisionapp.com/) (Licença Educacional)
+![Cadastrar Produto](img/telas/tela_cadastrar_produto.png)
+
+### Tela Cadastrar Usuário
+
+![Cadastrar Usuário](img/telas/tela_cadastrar_usuario.png)
+
+### Tela Cadastrar Venda
+
+![Cadastrar Venda](img/telas/tela_cadastrar_venda.png)
+
+### Tela Editar Produto
+
+![Editara Produto](img/telas/tela_editar_produto.png)
+
+### Tela Entrada Produto
+
+![Entrada Produto](img/telas/tela_entrada_produto.png)
+
+### Tela Estoque
+
+![Estoque](img/telas/tela_estoque.png)
+
+### Tela Login
+
+![Login](img/telas/tela_login.png)
+
+### Tela Menu
+
+![Menu](img/telas/tela_menu.png)
+
+### Tela Produtos
+
+![Produtos](img/telas/tela_produtos.png)
+
+### Tela Relatório Vendas
+
+![Relatório Vendas](img/telas/tela_relatorio_vendas.png)
+
+### Tela Vendas
+
+![Vendas](img/telas/tela_vendas.png)

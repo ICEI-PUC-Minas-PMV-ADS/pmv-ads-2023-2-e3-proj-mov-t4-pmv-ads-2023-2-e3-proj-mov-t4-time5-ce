@@ -37,15 +37,15 @@ etiquetas:
 
 ### Divisão de Papéis
 
-- Scrum Master: **************
-- Product Owner: *************
-- Equipe de Desenvolvimento: ****************
-- Equipe de Design: ***************
+- Scrum Master: Andréa Medeiros Aragão da Silveira
+- Product Owner: Reinaldo Theodoro Marquezini
+- Equipe de Desenvolvimento: Antoy Leme Novais Ferreira, Douglas Garcia da Silveira
+- Equipe de Design: Samuel Felismino Ribeiro
 
 Para organização e distribuição das tarefas do projeto, a equipe está utilizando o Trello estruturado com as seguintes listas:
 
-- Lista de opções: recebe as tarefas para desenvolvimento. Todas as atividades identificadas no decorrer do projeto também devem ser incorporadas a esta lista.	
-- Refinamento : Desenvolvimento de uma tarefa retirada da lista de opções. 
+- Lista de opções: recebe as tarefas para desenvolvimento. Todas as atividades identificadas no decorrer do projeto também devem ser incorporadas a esta lista.
+- Refinamento : Desenvolvimento de uma tarefa retirada da lista de opções.
 - Selecionados: Depois de refinadas, as atividades serão movidas para essa lista de acordo com a ordem de prioridade durante o desenvolvimento do projeto.
 - Desenvolvimento: Lista onde estarão as tarefas a ser desenvolvidas.
 - Revisão de código: Lista onde a atividade aguardará para ser revisada.
@@ -59,11 +59,11 @@ A equipe definiu os papéis de cada membro durante a implementação do Scrum em
  ### Ferramentas
 
 As ferramentas empregadas no projeto são:
--	Editor de código *******************
--	Ferramentas de comunicação (Teams, GoogleMeet e whatsApp)
--	Ferramentas de desenho de tela ***********
--	Ferramentas de diagramação ************
--	Ferramenta de gestão de grupo (Trello)
--	Tecnologia para apresentação de aplicações web **********
+-	Editor de código Visual Studio Code e Visual Studio 2022
+-	Ferramentas de comunicação Teams, GoogleMeet e whatsApp
+-	Ferramentas de desenho de tela Figma
+-	Ferramentas de diagramação Draw.IO
+-	Ferramenta de gestão de grupo Trello
+-	Tecnologia para apresentação de React Native
 
-O *********** foi escolhido para editar o código porque ele possui uma integração com o sistema de versão utilizado. As ferramentas de comunicação utilizadas possuem integração semelhante e por isso foram selecionadas. Para criar diagramas utilizamos as aplicações *************** por atender bem às necessidades de retratar visualmente o projeto. A *************** foi selecionada para o trabalho porque é uma ferramenta que facilita muito a manutenção e adição de funcionalidades ao código posteriormente.
+O Visual Stuido Code  foi escolhido para editar o código porque ele possui uma integração com o sistema de versão utilizado. As ferramentas de comunicação utilizadas possuem integração semelhante e por isso foram selecionadas. Para criar diagramas utilizamos Draw.IO e Figma por atender bem às necessidades de retratar visualmente o projeto. Escolhemos React Native para o trabalho porque é uma ferramenta que facilita muito a manutenção e adição de funcionalidades ao código posteriormente.
