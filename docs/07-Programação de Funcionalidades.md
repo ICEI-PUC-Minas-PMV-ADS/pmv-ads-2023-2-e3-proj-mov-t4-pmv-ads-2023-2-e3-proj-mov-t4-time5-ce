@@ -10,6 +10,7 @@ A tela relacionada aos vendedores no sistema contém o rol de vendedores registr
 
 ![Cadastro vendedores](img/telas/tela_cadastrar_usuario.png)
 
+
 Artefatos desenvolvidos para atender ao requisito:
 
 |Requisito    | Descrição do Requisito  | Artefato(s) produzido(s) |
@@ -19,10 +20,13 @@ Artefatos desenvolvidos para atender ao requisito:
 
 ## Gestão de produtos (RF-03)
 A tela de Cadastro de Produtos no sistema exibe uma lista com os últimos produtos inseridos (cada ítem listado contém ícones que permitirão a sua edição ou exclusão). Ao clicar no botão 'Cadastrar Produto' um formulário é aberto com campos para inserir o nome, preço e estoque inicial do produto. Depois de concluído o cadastro, clicando no botão 'Salvar' essas informações são enviadas ao SGBD MySQL Server e registradas.O mesmo acontece ao clicar nos ícones 'Editar e Remover'.
+
+
 ![image](img/telas/tela_cadastrar_produto.png)
 
 
 ![image](img/telas/tela_editar_produto.png)
+
 
 
 Artefatos desenvolvidos para atender ao requisito:
@@ -36,6 +40,7 @@ Artefatos desenvolvidos para atender ao requisito:
 Na tela de Vendas constará uma lista de produtos com seus respectivos preços e a lista de funcionários registrados. O funcionário selecionará seu nome e o produto a ser vendido para conseguir finalizar a venda. 
 
 ![Venda](img/telas/tela_vendas.png)
+
 
 Artefatos desenvolvidos para atender ao requisito:
 
