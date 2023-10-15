@@ -1,8 +1,8 @@
 # Registro de Testes de Software
 
-<span style="color:red">Pré-requisitos: <a href="3-Projeto de Interface.md"> Projeto de Interface</a></span>, <a href="8-Plano de Testes de Software.md"> Plano de Testes de Software</a>
+Aplicativo para de controle de estoque e vendas para distribuidoras de bebidas
 
-Relatório com as evidências dos testes de software realizados no sistema pela equipe, baseado em um plano de testes pré-definido.
+Neste relatório apresentamos os resultados obtidos com os testes no desenvolvimento do aplicativo de controle de estoque e venda para uma distribuidora de bebidas. Com os testes podemos verificar as funcionanlidades login e CRUD de produtos, bem como o desempenho das funções citadas, para verificação de pontos fortes e fracos da nossa solução.
 
 ## Avaliação
 
