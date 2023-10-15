@@ -17,6 +17,7 @@ CT-04 – Remover produto
 No início do teste, podemos visualizar todos produtos previamente cadastrados. Seguidamente, foi cadastrado um produto com o nome "Novo produto" no campo descrição, "20" no campo Valor, "0" no campo Estoque Inicial e em seguida ao clicar em "Cadastrar", a mensagem "produto criado com sucesso" aparece nos retornando a informação que cadastro está funcionando. Em seguida,foi selecionado o "Novo produto" anteriormente cadastrado, para testarmos a função "Editar produto". Ao abrirmos essa função, foi alterado o de "Novo produto" para "Novo produto nome editado", em seguida clicamos em "Salvar alterações" e o sistema retorna a mensagem "Produto editado com sucesso" nos informando que essa função está operando com êxito.Em seguida, se clicarmos em "Deletar produto" aparece a mensagem "Produto removido com sucesso" indicando que a função está cumprindo com o objetivo.
 
 RF-08 	O sistema deve permitir o usuário entrar no sistema com login e senha
+CT-10 – O sistema deve permitir o usuário entrar no sistema com login e senha
 
 No início do teste, pode-se observar o login sendo realizado no sistema.
 
