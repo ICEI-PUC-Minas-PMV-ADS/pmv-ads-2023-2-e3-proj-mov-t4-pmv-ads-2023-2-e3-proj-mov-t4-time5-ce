@@ -1,10 +1,9 @@
 
-
 # Registro de Testes de Software
 
 Aplicativo para de controle de estoque e vendas para distribuidoras de bebidas
 
-Neste relatório apresentamos os resultados obtidos com os testes no desenvolvimento do aplicativo de controle de estoque e venda para uma distribuidora de bebidas. Com os testes podemos verificar as funcionanlidades login e CRUD de produtos, bem como o desempenho das funções citadas, para verificação de pontos fortes e fracos da nossa solução.
+Neste relatório apresentamos os resultados obtidos com os testes no desenvolvimento do aplicativo de controle de estoque e venda, para uma distribuidora de bebidas. Com os testes podemos verificar as funcionanlidades login e CRUD de produtos, bem como o desempenho das funções citadas, para verificação de pontos fortes e fracos da nossa solução.
 
 Funcionalidades testadas
 
@@ -23,7 +22,7 @@ No início do teste, pode-se observar o login sendo realizado no sistema.
 
 ## Avaliação
 
-Com os testes realizados, podemos constatar que o sistema está permitindo cadastrar, visualizar, editar e remover os produtos de forma satisfatória, nos retornando as notificações de forma oportuna. Visualizamos também que está permitindo realizar o login de usuário pertinentemente.
+Com os testes realizados em 15/10/2023, podemos constatar que o sistema está permitindo cadastrar, visualizar, editar e remover os produtos de forma satisfatória, nos retornando as notificações de forma oportuna. Visualizamos também que está permitindo realizar o login de usuário pertinentemente.
 
 Vídeo com os testes realizado:
 
