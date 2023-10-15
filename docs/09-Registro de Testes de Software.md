@@ -1,5 +1,5 @@
 
-https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t4-pmv-ads-2023-2-e3-proj-mov-t4-time5-ce/assets/111437215/3217bc2a-fc56-4a12-9d05-29673aa47fc9
+
 # Registro de Testes de Software
 
 Aplicativo para de controle de estoque e vendas para distribuidoras de bebidas
