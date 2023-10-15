@@ -58,7 +58,7 @@
 | Passos 	| - Acessar o navegador <br> - https://puc-front.vercel.app <br> - Clicar em "cadastrar entrada" <br> - Preencher os campos obrigatórios (produto, quantidade), clicar em adicionar, depois em Cadastrar Entradas)|
 |Critério de Êxito | - Entradas de estoque feitas com sucesso. |
 
-| **Caso de Teste** 	| **CT-10 – O sistema deve permitir o usuário entrar no sistema com login e senha**	|
+| **Caso de Teste** 	| **CT-10 – O sistema deve permitir o usuário entrar no sistema com login e senha** 	|
 |	Requisito Associado 	| RF-08 - O sistema deve permitir acessar o sistema com login e senha. |
 | Objetivo do Teste 	| Verificar se o usuário consegue acessar o sistema com login e senha. |
 | Passos 	| - Acessar o sistema - digitar login e senha - entrar |
