@@ -1,11 +1,9 @@
-# Instruções de utilização
+# NativeBase TypeScript Expo Template
 
-## Instalação do Site
+The official NativeBase TypeScript template for [Expo](https://docs.expo.io/)
 
-O site em HTML/CSS/JS é um projeto estático, logo pode ser utilizado tanto em servidores...
+## Usage
 
-## Histórico de versões
-
-### [0.1.0] - DD/MM/AAAA
-#### Adicionado
-- Adicionado ...
+```sh
+expo init my-app --template @native-base/expo-template-typescript
+```
