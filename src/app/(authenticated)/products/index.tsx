@@ -1,4 +1,4 @@
-import { Box, Button, Spinner, Text, useDisclose } from 'native-base';
+import { Box, Button, HStack, Spinner, Text, useDisclose } from 'native-base';
 import { TouchableOpacity } from 'react-native-gesture-handler';
 import useProducts from '../../../hooks/use-products';
 import ProductModal from '../../../components/ProductModal';
@@ -12,6 +12,13 @@ export default function Products() {
 
   const [activeProduct, setActiveProduct] = useState<IProduct>();
   const { isOpen, onOpen, onClose } = useDisclose();
+
+  const [removing, setRemoving] = useState<number>();
+  const handleRemove = async (id: number): Promise<void> => {
+    setRemoving(id);
+    await removeProduct(id.toString());
+    setRemoving(undefined);
+  };
 
   return (
     <Box>
@@ -38,20 +45,28 @@ export default function Products() {
           </Text>
         ) : (
           products.map((product) => (
-            <TouchableOpacity
-              key={product.id}
-              onPress={() => setActiveProduct(product)}
+            <Box
+              py='8px'
+              borderBottomColor={'#cecece'}
+              borderBottomWidth={'1px'}
+              borderBottomStyle={'solid'}
+              px='8px'
             >
-              <Box
-                py='8px'
-                borderBottomColor={'#cecece'}
-                borderBottomWidth={'1px'}
-                borderBottomStyle={'solid'}
-                px='8px'
-              >
-                <Text>{product.descricao}</Text>
-              </Box>
-            </TouchableOpacity>
+              <Text>{product.descricao}</Text>
+              <HStack mt='8px' space={2} justifyContent={'space-between'}>
+                <Button
+                  colorScheme={'red'}
+                  isLoading={removing === product.id}
+                  onPress={() => handleRemove(product.id as number)}
+                  // mt='8px'
+                >
+                  Remover
+                </Button>
+                <Button onPress={() => setActiveProduct(product)} flex={1}>
+                  Editar
+                </Button>
+              </HStack>
+            </Box>
           ))
         )}
       </Box>

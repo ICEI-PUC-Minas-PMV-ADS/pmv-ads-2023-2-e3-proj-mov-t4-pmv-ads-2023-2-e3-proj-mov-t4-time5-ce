@@ -1,5 +1,14 @@
 import { Link, Slot } from 'expo-router';
-import { Box, NativeBaseProvider, Text, extendTheme } from 'native-base';
+import {
+  Box,
+  Button,
+  NativeBaseProvider,
+  ScrollView,
+  Text,
+  extendTheme,
+  useDisclose,
+} from 'native-base';
+import MenuModal from '../../components/MenuModal';
 
 // Define the config
 const config = {
@@ -15,6 +24,8 @@ declare module 'native-base' {
 }
 
 const Layout: React.FC = function () {
+  const { isOpen, onOpen, onClose } = useDisclose();
+
   return (
     <Box position='relative' height='100%'>
       <Box
@@ -32,9 +43,16 @@ const Layout: React.FC = function () {
         <Link href='/' asChild>
           <Text>Sair</Text>
         </Link>
+
+        <Button onPress={onOpen} marginLeft={'auto'}>
+          Menu
+        </Button>
+        <MenuModal isOpen={isOpen} onClose={onClose} />
       </Box>
-      <Box paddingRight={'20px'} paddingLeft={'20px'}>
-        <Slot />
+      <Box paddingRight={'20px'} paddingLeft={'20px'} paddingBottom={'150px'}>
+        <ScrollView>
+          <Slot />
+        </ScrollView>
       </Box>
     </Box>
   );
