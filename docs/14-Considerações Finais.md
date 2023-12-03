@@ -1,5 +1,5 @@
 # Frameworks utilizados
-Inserir texto
+Foi utilizado o framework React Native, o mesmo utiliza JavaScript e é bem semelhante a programar para a web e como o conteúdo do primeiro e do segundo semestre foi voltado à programação web não foi difícil se adaptar ao React Native.
 
 # Gestão de trabalho
 Não encontrei nada no git, talvez seja interessante enviar o que esta no trello
